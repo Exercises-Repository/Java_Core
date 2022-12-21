@@ -1,6 +1,9 @@
 package module2;
 
 public class Main {
+    /*
+    In bảng cửu chương
+     */
     public static void main(String[] args) {
         int a;
         for (int i = 2; i <= 9; i++) {

@@ -3,6 +3,9 @@ package module2;
 import java.util.Scanner;
 
 public class Classify {
+    /*
+  Xếp loại học viên
+   */
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         System.out.println("Nhập số điểm học viên");

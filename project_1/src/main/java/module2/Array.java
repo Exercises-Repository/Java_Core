@@ -3,6 +3,9 @@ package module2;
 import java.util.Scanner;
 
 public class Array {
+    /*
+    Đảo vị trí phần tử trong mảng
+     */
     public static void main(String[] args) {
         int[] array;
         int size;

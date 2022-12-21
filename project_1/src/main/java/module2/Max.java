@@ -8,11 +8,11 @@ public class Max {
         System.out.println("Nhập vào số lượng trong dãy số:");
         int a = 0;
         int n = scanner.nextInt();
+        int count = 1;
 
         while (a <= n) {
-            System.out.println("Nhập giá trị" + a);
+            System.out.println("Nhập giá trị " + count++);
             a = scanner.nextInt();
-            a += 1;
         }
     }
 }

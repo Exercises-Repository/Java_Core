@@ -3,6 +3,9 @@ package module2;
 import java.util.Scanner;
 
 public class PrimeSmallHundred {
+    /*
+    Tìm các số nguyên tố nhỏ hơn 100
+     */
     public static void main(String[] args) {
         int n = 100;
         System.out.println("Tất cả các số nguyên tố nhỏ hơn 100:");

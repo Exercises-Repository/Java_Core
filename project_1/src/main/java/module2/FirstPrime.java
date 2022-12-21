@@ -1,6 +1,9 @@
 package module2;
 
 public class FirstPrime {
+    /*
+    Tìm 20 số nguyên tố đầu tiên
+     */
     public static void main(String[] args) {
         int i = 2;
         int count = 0;
