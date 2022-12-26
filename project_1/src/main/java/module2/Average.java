@@ -17,7 +17,7 @@ public class Average {
         physics = scanner.nextInt();
         System.out.println("Nhập điểm Hoá");
         chemistry = scanner.nextInt();
-        int average = math + physics + chemistry / 3;
+        int average = (math + physics + chemistry) / 3;
         System.out.println("Điểm trung bình 3 môn là: " + average);
     }
 }
